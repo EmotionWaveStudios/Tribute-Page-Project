@@ -13,7 +13,7 @@ This is a tribute page about Dr Borlaug and his achievements
 
 ## Live view
 
-[Tribute page]()
+[Tribute page](https://verdant-crostata-28a535.netlify.app/)
 
 ## Prerequisite
 
@@ -21,11 +21,11 @@ This is a tribute page about Dr Borlaug and his achievements
 - Install Vs code or any text editor.
 
 ## Authors 👤 
-**Brham Dev Mahato**
 
- - Github: [@dev1980](https://github.com/dev1980)
- - Twitter: [@MahatoBrham](https://twitter.com/MahatoBrham) 
- - Linkedin: [linkedin](https://www.linkedin.com/in/dev1980/)
+**Mzwandile Nkohla**
+
+ - Github: [EmotionWaveStudios](https://github.com/EmotionWaveStudios)
+ - Linkedin: [Mzwandile Nkohla](https://www.linkedin.com/in/mzwandile-nkohla-948363214/)
 
 ## 🤝 Contributing
 
