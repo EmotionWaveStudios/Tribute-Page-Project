@@ -49,3 +49,13 @@
 a:link {
   color: rgb(71, 124, 167);
 }
+
+.image_section {
+  background-color: white;
+  width: 98%;
+  margin: 0 auto;
+}
+
+figcaption {
+  padding: 15px 0;
+}
